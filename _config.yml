@@ -1,0 +1,32 @@
+# Your Name or Company
+title: Jessica Appelbaum
+
+# Description of your website. This is used for social sharing.
+description:  Software Engineer
+
+# A brief blurb about yourself
+content: Software Engineer | Full-Stack | Front-End | Design Systems
+
+# Add your social links
+social:
+  - platform: GitHub
+    url: https://github.com/jessapp
+  - platform: LinkedIn
+    url: https://www.linkedin.com/in/jessapp/
+  - platform: Medium
+    url: https://medium.com/@jess.appelbaum
+
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: share.jpg
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
