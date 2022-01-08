@@ -16,7 +16,7 @@
   &__image {
     background-size: cover;
     background-position: center;
-    @include responsivebackground("full-sm.jpg", "full-md.jpg", "full-lg.jpg");
+    @include responsivebackground("full-lg-2.jpg", "full-lg-2.jpg", "full-lg-2.jpg");
     min-height: 50vh;
 
     @include min(md) {
