@@ -18,15 +18,9 @@ social:
 
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
 markdown: kramdown
-sharing_image: share.jpg
 
 #### LAYOUT OPTIONS #####
-
-# Half layout
-half_side: right
 
 # Full layout
 full_text_position: right # left, right or center
